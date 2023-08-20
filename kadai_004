@@ -1,4 +1,4 @@
-package hensutest;
+package kadai_004;
 
 public class test {
 	public static void main(String[] args) {
